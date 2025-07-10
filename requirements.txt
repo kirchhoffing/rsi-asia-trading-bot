@@ -1,0 +1,9 @@
+# RSI Divergence Crypto Trading Bot Dependencies
+ccxt>=4.0.0
+pandas>=2.0.0
+numpy>=1.24.0
+ta>=0.10.0
+scipy>=1.10.0
+schedule>=1.2.0
+python-dotenv>=1.0.0
+logging>=0.4.9.6 
